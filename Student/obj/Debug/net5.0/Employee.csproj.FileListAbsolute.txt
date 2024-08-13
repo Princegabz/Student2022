@@ -1,0 +1,12 @@
+C:\Users\lab_services_student\source\repos\Student\bin\Debug\net5.0\Employee.deps.json
+C:\Users\lab_services_student\source\repos\Student\bin\Debug\net5.0\Employee.dll
+C:\Users\lab_services_student\source\repos\Student\bin\Debug\net5.0\Employee.pdb
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.dll
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\refint\Employee.dll
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\Employee.pdb
+C:\Users\lab_services_student\source\repos\Student\obj\Debug\net5.0\ref\Employee.dll
